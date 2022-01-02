@@ -26,7 +26,7 @@ public delegate void nbGetVarDel(string VarName, out string Value);
 [UnmanagedFunctionPointerAttribute(CallingConvention.StdCall)]
 public delegate void nbSetVarDel(string VarName, string Value);
 
-namespace $safeprojectname$
+namespace neoBookPluginExample
 {
     public class Class1
     {
