@@ -1,4 +1,4 @@
-﻿namespace $safeprojectname$
+﻿namespace neoBookPluginExample
 {
     partial class AboutBox1
     {
