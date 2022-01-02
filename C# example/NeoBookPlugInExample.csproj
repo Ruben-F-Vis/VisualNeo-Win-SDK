@@ -7,8 +7,8 @@
     <ProjectGuid>{75607726-6929-4C00-B5AE-BE4D69D43AD2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>$safeprojectname$</RootNamespace>
-    <AssemblyName>$safeprojectname$</AssemblyName>
+    <RootNamespace>neoBookPluginExample</RootNamespace>
+    <AssemblyName>neoBookPluginExample</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
