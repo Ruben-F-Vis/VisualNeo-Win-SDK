@@ -1,0 +1,4 @@
+C:\Users\Ruben Vis\OneDrive - RINO Amsterdam\Documenten\VisualNeoWin\PlugInSdk\C#\obj\Debug\NeoBookPlugInExample.csproj.AssemblyReference.cache
+C:\Users\Ruben Vis\OneDrive - RINO Amsterdam\Documenten\VisualNeoWin\PlugInSdk\C#\obj\Debug\safeprojectname.AboutBox1.resources
+C:\Users\Ruben Vis\OneDrive - RINO Amsterdam\Documenten\VisualNeoWin\PlugInSdk\C#\obj\Debug\NeoBookPlugInExample.csproj.GenerateResource.cache
+C:\Users\Ruben Vis\OneDrive - RINO Amsterdam\Documenten\VisualNeoWin\PlugInSdk\C#\obj\Debug\NeoBookPlugInExample.csproj.CoreCompileInputs.cache
