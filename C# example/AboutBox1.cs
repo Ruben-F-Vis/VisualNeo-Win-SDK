@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace $safeprojectname$
+namespace neoBookPluginExample
 {
     partial class AboutBox1 : Form
     {
