@@ -9,14 +9,14 @@ uses
   Messages,
   SysUtils,
   Classes,
-  Graphics,    
+  Graphics,
   Controls,
   Forms,
   Dialogs,
   StdCtrls,
   Calendar,
-  PlugInUtils in '..\Calendar Example\PlugInUtils.pas',
-  Edit1 in '..\Calendar Example\Edit1.pas' {EditForm1};
+  Edit1 in 'Edit1.pas' {EditForm1},
+  PlugInUtils in 'PlugInUtils.pas';
 
 {$E nbp}
 
